@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cyrus Nderitu</h1>
-<h3 align="center">A student all time in this journey in tech with skills in Front-end but currently a student in Holberton AlX SWE program</h3>
+<h3 align="center">A student all time in this journey in tech with skills in Front-end. Continuous learning is at the core of my professional ethos. I'm always exploring new techniques and tools to push the boundaries of what's possible in frontend development. Apart from coding, I have an interest in 3D design and how it can be incorporated into web with Three JS, React Fiber and the likes by bringing designs to life</h3>
 
 <p align="left"> <a href="https://twitter.com/cyrusnderitu98" target="blank"><img src="https://img.shields.io/twitter/follow/cyrusnderitu98?logo=twitter&style=for-the-badge" alt="cyrusnderitu98" /></a> </p>
 
-- 🔭 I’m currently working on Next JS [![Next][Next.js]][Next-url] & [Typescript.js]
+- 🔭 I’m currently working on Next JS [![Next][Next.js]][Next-url] & [![Typescript][Typescript.js]]
 
 - 🌱 I’m currently learning **Next JS framework to React Lib**
 
