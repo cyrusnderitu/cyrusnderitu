@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/cyrusnderitu98" target="blank"><img src="https://img.shields.io/twitter/follow/cyrusnderitu98?logo=twitter&style=for-the-badge" alt="cyrusnderitu98" /></a> </p>
 
-- 🔭 I’m currently working on [React 30 days](https://github.com/cyrusnderitu/30-Days-Of-React)
+- 🔭 I’m currently working on Next JS [![Next][Next.js]][Next-url] & [Typescript.js]
 
 - 🌱 I’m currently learning **Next JS framework to React Lib**
 
@@ -31,3 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyrusnderitu&show_icons=true&locale=en" alt="cyrusnderitu" /></p>
 
+
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Typescript.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1358%2F0*OJAUWZoGbVq--rNd.png&tbnid=Q9FkC31RHk1FxM&vet=12ahUKEwjT34X-rv-BAxVRnycCHbEuC0kQMygPegQIARBo..i&imgrefurl=https%3A%2F%2Foguzhansezer.medium.com%2Ftips-for-writing-typescript-like-a-pro-930852de89c8&docid=jH6QjkSwRDgdeM&w=1240&h=698&q=Typescript&hl=en&ved=2ahUKEwjT34X-rv-BAxVRnycCHbEuC0kQMygPegQIARBo)https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1358%2F0*OJAUWZoGbVq--rNd.png&tbnid=Q9FkC31RHk1FxM&vet=12ahUKEwjT34X-rv-BAxVRnycCHbEuC0kQMygPegQIARBo..i&imgrefurl=https%3A%2F%2Foguzhansezer.medium.com%2Ftips-for-writing-typescript-like-a-pro-930852de89c8&docid=jH6QjkSwRDgdeM&w=1240&h=698&q=Typescript&hl=en&ved=2ahUKEwjT34X-rv-BAxVRnycCHbEuC0kQMygPegQIARBo
+[Next-url]: https://nextjs.org/
